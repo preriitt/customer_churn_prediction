@@ -36,11 +36,13 @@ The dataset contains customer-related information such as:
 6️⃣ Evaluation: Measured performance using Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
 7️⃣ Insights & Recommendations: Suggested retention strategies based on model insights.
 
+
 📊 Model Performance
 Accuracy: 87%
 Precision: 82%
 Recall: 87%
 F1-Score: 84%
+
 
 💡 Key Insights
 High Monthly Charge and Tenure were strong indicators of churn.
